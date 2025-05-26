@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="57X4GN-Cl0e9uU6Bo_dzGA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/login.html" CVScreenId="71d807d4-53b0-43b9-bf85-23c8e11e170f" CvElementArea="796, 551, 343, 41" CvTextArea="947, 563, 42, 18" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="798, 553, 340, 38" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="b03e20c3-6ca0-499b-b940-6aef8588a069" ScopeSelectorArgument="&lt;html app='msedge.exe' title='HR Login - Leave Management System' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="6c68f782cc89a14f3aa1db3aca66e6ca.png" xmlns="">0M8oHUmTsCkq190UrJiQiJg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "× Leave application alr…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "pvke7InS_ESrO4oZCjG1wA",
+  "Reference": "896DLw60WE2tF2lwdS5nHA/pvke7InS_ESrO4oZCjG1wA",
+  "ParentRef": "896DLw60WE2tF2lwdS5nHA/vwh4rRwmTkKtBxsXgSNT-Q",
+  "Created": "2025-05-26T08:44:20.0962995Z",
+  "Updated": "2025-05-26T08:44:20.0962995Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

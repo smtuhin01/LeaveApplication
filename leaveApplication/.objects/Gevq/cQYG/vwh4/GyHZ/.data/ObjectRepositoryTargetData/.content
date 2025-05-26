@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nyqNPqrPHUmDZoMs6WjLUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" CVScreenId="6174bb7b-ec03-465f-b827-433cdc43dc09" CvElementArea="409, 768, 1119, 38" CvType="InputBox" DesignTimeRectangle="408, 769, 1120, 36" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='status' tag='SELECT' type='' class='' aaname='Status:' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="86277e5d-1f0e-442b-adbc-97d9a106b98b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='HR Dashboard - Leave Management System' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6174bb7b-ec03-465f-b827-433cdc43dc09" CvTextArea="407, 743, 50, 15" CvTextArgument="Status:" CvType="Text" DesignTimeRectangle="408, 739, 1120, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Status:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Status:' /&gt;" Guid="1e314c9c-6b53-4fe0-8c55-6837cd1fed6f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6f1f62bd971810d27d6c1f2ae9184970.png" xmlns="">0RGI7jWqJzUaYHAhTSnxqtg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

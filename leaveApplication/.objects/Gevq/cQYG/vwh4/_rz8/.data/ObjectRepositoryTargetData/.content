@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4ksGc_BxgE25c5KBekZmwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" CVScreenId="6174bb7b-ec03-465f-b827-433cdc43dc09" CvElementArea="405, 367, 1120, 37" CvType="InputBox" DesignTimeRectangle="408, 369, 1120, 34" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='employeeName' tag='INPUT' type='text' class='' aaname='Employee Name:' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d7d4c6e1-2b62-44ba-bd52-08b15116c3cc" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='HR Dashboard - Leave Management System' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6174bb7b-ec03-465f-b827-433cdc43dc09" CvTextArea="407, 343, 123, 18" CvTextArgument="Employee Name:" CvType="Text" DesignTimeRectangle="408, 339, 1120, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Employee Name:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Employee Name:' /&gt;" Guid="50113611-4171-4c60-93c6-b977ee2f570b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="58a736c6868443eadef6b72b8e1d504d.png" xmlns="">0nPeierd37UKX2-Trt1uXOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "HR Dashboard Welcome, a…",
+  "Type": "Element",
+  "Id": "jYr46Bnvr0GM-LVmO2LVXw",
+  "Reference": "896DLw60WE2tF2lwdS5nHA/jYr46Bnvr0GM-LVmO2LVXw",
+  "ParentRef": "896DLw60WE2tF2lwdS5nHA/vwh4rRwmTkKtBxsXgSNT-Q",
+  "Created": "2025-05-26T09:32:28.7041439Z",
+  "Updated": "2025-05-26T09:32:28.7041439Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

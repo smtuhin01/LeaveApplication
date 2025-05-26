@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1xaAJ0NPRkKGAx1vN5hWeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" CVScreenId="4b185930-def6-406e-910d-c06a77edef0a" CvTextArea="585, 261, 162, 18" CvTextArgument="Employee Leave Form" CvType="Text" DesignTimeRectangle="566, 249, 201, 41" ElementType="Button" FullSelectorArgument="&lt;webctrl class='tab-btn' tag='BUTTON' /&gt;" Guid="eb2557c1-57de-4617-afef-f21536025530" ScopeSelectorArgument="&lt;html app='msedge.exe' title='HR Dashboard - Leave Management System' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1ae2e88e8985111a726ea682b76db43d.png" xmlns="">06y-o9_DGv0amz2vjHkkg_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Employee Name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "_rz82oba2ku0iyXPOvWjyA",
+  "Reference": "896DLw60WE2tF2lwdS5nHA/_rz82oba2ku0iyXPOvWjyA",
+  "ParentRef": "896DLw60WE2tF2lwdS5nHA/vwh4rRwmTkKtBxsXgSNT-Q",
+  "Created": "2025-05-26T08:36:28.542614Z",
+  "Updated": "2025-05-26T08:36:28.542614Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

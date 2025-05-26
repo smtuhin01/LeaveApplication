@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge HR Login - Leave Management System",
+  "Type": "App",
+  "Id": "GevqqN3Hy0OPcF6LwO3xrA",
+  "Reference": "896DLw60WE2tF2lwdS5nHA/GevqqN3Hy0OPcF6LwO3xrA",
+  "Created": "2025-05-26T08:18:44.7191106Z",
+  "Updated": "2025-05-26T08:18:44.7191106Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

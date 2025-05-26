@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3NWot1AGjEGsaw38GyZDNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" CVScreenId="498795d4-c570-4b94-8be5-731fe7a581be" CvElementArea="1482, 144, 421, 59" CvTextArea="1515, 166, 339, 15" CvTextArgument="Leave application already exists for these dates" CvType="Button" DesignTimeRectangle="1516, 162, 337, 26" ElementType="Text" FullSelectorArgument="&lt;webctrl id='toast-text' tag='SPAN' /&gt;" Guid="fb4799d7-db5c-4476-aaa7-ec2215822e90" ScopeSelectorArgument="&lt;html app='msedge.exe' title='HR Dashboard - Leave Management System' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="5070555916802f880e89c52f4fe6c972.png" xmlns="">0ZwY5_XoS7UigzSIN1BXw2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
